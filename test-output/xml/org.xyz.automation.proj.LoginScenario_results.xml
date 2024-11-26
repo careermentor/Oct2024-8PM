@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.218">
+  <properties />
+  
+  
+            <testcase name="validate_signup_functionality" time="1.602" classname="org.xyz.automation.proj.LoginScenario" />
+                <testcase name="validate_login_functionality" time="0.616" classname="org.xyz.automation.proj.LoginScenario" />
+      
+</testsuite>
